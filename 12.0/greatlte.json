@@ -10,11 +10,11 @@
   "donate_url": "https://paypal.me/lukew594",
   "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
   "news_url": "https://t.me/PixelExperience",
-  "datetime": "",
-  "filename": "",
-  "id": "",
-  "size": "",
-  "url": "",
-  "version": "",
-  "filehash": ""
+  "datetime": "1647270417",
+  "filename": "PixelExperience_greatlte-12.0-20220314-1508-UNOFFICIAL.zip",
+  "id": "420d53cf23fc70b02524769cf97d38025811b29dcc569289a0792729a625fdcc",
+  "size": "1449724043",
+  "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_greatlte-12.0-20220314-1508-UNOFFICIAL.zip/PixelExperience_greatlte-12.0-20220314-1508-UNOFFICIAL.zip",
+  "version": "twelve",
+  "filehash": "1846c6c29731de7ec315d265004f4dea"
 }
