@@ -1,0 +1,20 @@
+{
+  "error": true,
+  "maintainers": [
+    {
+      "main_maintainer": false,
+      "github_username": "dylanneve1",
+      "name": "Dylan Neve"
+    }
+  ],
+  "donate_url": "https://paypal.me/dylanneve1",
+  "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
+  "news_url": "https://t.me/PixelExperience",
+  "datetime": "1647293842",
+  "filename": "PixelExperience_star2lte-12.0-20220315-0406-UNOFFICIAL.zip",
+  "id": "ef98f9c5658fe3f29b2dcd024e8eed629b15d26909a5bbf18efca1f302e05c77",
+  "size": "1518592229",
+  "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_star2lte-12.0-20220315-0406-UNOFFICIAL.zip/PixelExperience_star2lte-12.0-20220315-0406-UNOFFICIAL.zip",
+  "version": "twelve",
+  "filehash": "b8b1d7641ad7bba09b266ccd53cfeefc"
+}
