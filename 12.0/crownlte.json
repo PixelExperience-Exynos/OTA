@@ -1,0 +1,20 @@
+{
+  "error": true,
+  "maintainers": [
+    {
+      "main_maintainer": false,
+      "github_username": "dylanneve1",
+      "name": "Dylan Neve"
+    }
+  ],
+  "donate_url": "https://paypal.me/dylanneve1",
+  "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
+  "news_url": "https://t.me/PixelExperience",
+  "datetime": "1647297415",
+  "filename": "PixelExperience_crownlte-12.0-20220315-0250-UNOFFICIAL.zip",
+  "id": "4b3df4255451df31927230ff788078f54acf2a4e1a1751ba903cac1f348e8b29",
+  "size": "1518721513",
+  "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_crownlte-12.0-20220315-0250-UNOFFICIAL.zip/PixelExperience_crownlte-12.0-20220315-0250-UNOFFICIAL.zip",
+  "version": "twelve",
+  "filehash": "d407dcc0d3b91e64f7faaa401ebf4f28"
+}
