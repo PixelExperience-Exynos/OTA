@@ -1,20 +1,20 @@
 {
-  "error": true,
-  "maintainers": [
-    {
-      "main_maintainer": false,
-      "github_username": "expressluke",
-      "name": "ExpressLuke"
-    }
-  ],
-  "donate_url": "https://paypal.me/lukew594",
-  "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
-  "news_url": "https://t.me/PixelExperience",
-  "datetime": "",
-  "filename": "",
-  "id": "",
-  "size": "",
-  "url": "",
-  "version": "",
-  "filehash": ""
+    "error": false,
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "expressluke",
+            "name": "ExpressLuke"
+        }
+    ],
+    "donate_url": "https://paypal.me/lukew594",
+    "website_url": "https://paypal.me/lukew594",
+    "news_url": "https://t.me/PixelExperience",
+    "datetime": "1648328962",
+    "filename": "PixelExperience_hero2lte-12.1-20220326-2111-UNOFFICIAL.zip",
+    "id": "f4fe3785f6b294b147c7c19d064210cd029cddf83a7626a7e0f670b92a59c25c",
+    "size": "1418467958",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_hero2lte-12.1-20220326-2111-UNOFFICIAL.zip/PixelExperience_hero2lte-12.1-20220326-2111-UNOFFICIAL.zip",
+    "version": "twelve",
+    "filehash": "92251a0fd9927ee82a23e3a6aedc7824"
 }
