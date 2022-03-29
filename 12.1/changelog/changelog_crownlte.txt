@@ -1,1 +1,12 @@
+29-03-2022:
+- Updated to Android 12.1.0 (R2)
+- Updated to March security patch
+- Enabled display modes
+- Switched to SkiaVK and enabled Vulkan for HWUI rendering
+- Updated HWComposer and Gralloc blobs
+- Upreved HWComposer HAL to 2.4
+- Shrunk ZRAM size as 3GB is excessive
+- Enabled IORap and fixed some denials
 
+15-03-2022:
+- Initial OTA release
