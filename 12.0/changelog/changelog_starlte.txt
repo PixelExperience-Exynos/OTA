@@ -1,3 +1,11 @@
+30-03-2022:
+- Updated to Android 12.1.0 (R2)
+- Updated to March security patch
+- Switched to SkiaVK and enabled Vulkan for HWUI rendering
+- Updated HWComposer and Gralloc blobs
+- Upreved HWComposer HAL to 2.4
+- Shrunk ZRAM size as 3GB is excessive
+- Disabled updatable APEX
+
 15-03-2022:
 - Initial OTA release
-
