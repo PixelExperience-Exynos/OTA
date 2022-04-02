@@ -1,20 +1,20 @@
 {
-  "error": true,
-  "maintainers": [
-    {
-      "main_maintainer": false,
-      "github_username": "expressluke",
-      "name": "ExpressLuke"
-    }
-  ],
-  "donate_url": "https://paypal.me/lukew594",
-  "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
-  "news_url": "https://t.me/PixelExperience",
-  "datetime": "",
-  "filename": "",
-  "id": "",
-  "size": "",
-  "url": "",
-  "version": "",
-  "filehash": ""
+    "datetime": "1648905289",
+    "donate_url": "https://paypal.me/lukew594",
+    "error": false,
+    "filehash": "ca58096100e008a163c82ecb9cb6d6f8",
+    "filename": "PixelExperience_dreamlte-12.1-20220402-1348-UNOFFICIAL.zip",
+    "id": "d63e4100a9bddf56f8ec218c6f9793daefbf9e0b3899b2bf5cb15ab871d45964",
+    "maintainers": [
+        {
+            "github_username": "expressluke",
+            "main_maintainer": false,
+            "name": "ExpressLuke"
+        }
+    ],
+    "news_url": "https://t.me/PixelExperience",
+    "size": "1492914121",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_dreamlte-12.1-20220402-1348-UNOFFICIAL.zip/PixelExperience_dreamlte-12.1-20220402-1348-UNOFFICIAL.zip",
+    "version": "twelve",
+    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
 }
