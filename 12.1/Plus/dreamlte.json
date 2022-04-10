@@ -1,0 +1,20 @@
+{
+    "datetime": "",
+    "donate_url": "https://paypal.me/lukew594",
+    "error": false,
+    "filehash": "",
+    "filename": "",
+    "id": "",
+    "maintainers": [
+        {
+            "github_username": "expressluke",
+            "main_maintainer": false,
+            "name": "ExpressLuke"
+        }
+    ],
+    "news_url": "https://t.me/PixelExperience",
+    "size": "",
+    "url": "",
+    "version": "twelve_plus",
+    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
+}
