@@ -1,5 +1,5 @@
 {
-  "error": true,
+  "error": false,
   "maintainers": [
     {
       "main_maintainer": false,
@@ -10,11 +10,11 @@
   "donate_url": "https://paypal.me/dylanneve1",
   "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
   "news_url": "https://t.me/PixelExperience",
-  "datetime": "",
-  "filename": "",
-  "id": "",
-  "size": "",
-  "url": "",
+  "datetime": "1649606067",
+  "filename": "PixelExperience_Plus_starlte-12.1-20220410-2301-UNOFFICIAL.zip",
+  "id": "77381f37e4ab5178a87864194866ddf6",
+  "size": "1551113754",
+  "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_starlte-12.1-20220410-2301-UNOFFICIAL.zip/PixelExperience_Plus_starlte-12.1-20220410-2301-UNOFFICIAL.zip",
   "version": "twelve_plus",
-  "filehash": ""
+  "filehash": "4482f4f144b32a78a3dcdb64047b9d98605348d878787acde201cb7be18afd1e"
 }
