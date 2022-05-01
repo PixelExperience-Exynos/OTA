@@ -1,0 +1,20 @@
+{
+    "datetime": "1651394979",
+    "donate_url": "https://paypal.me/lukew594",
+    "error": false,
+    "filehash": "6b711f3d61a488fd39c5db1d77da5383",
+    "filename": "PixelExperience_Plus_beyondx-12.1-20220501-0943-UNOFFICIAL.zip",
+    "id": "d7ea95bb18bf1872c04abad4672599eb1ce8d0a103788ab421d7e21e8e4f730c",
+    "maintainers": [
+        {
+            "github_username": "expressluke",
+            "main_maintainer": false,
+            "name": "ExpressLuke"
+        }
+    ],
+    "news_url": "https://t.me/PixelExperience",
+    "size": "1573016517",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_beyondx-12.1-20220501-0943-UNOFFICIAL.zip/PixelExperience_Plus_beyondx-12.1-20220501-0943-UNOFFICIAL.zip",
+    "version": "twelve_plus",
+    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
+}
