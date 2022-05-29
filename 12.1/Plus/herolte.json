@@ -1,10 +1,10 @@
 {
-    "datetime": "1649591513",
+    "datetime": "1653772939",
     "donate_url": "https://paypal.me/lukew594",
     "error": false,
-    "filehash": "72e09917973bdc3da59b01133c9e0092",
-    "filename": "PixelExperience_Plus_herolte-12.1-20220410-1153-UNOFFICIAL.zip",
-    "id": "c7fdaed3d1d65fe33986ca6d09728a653d7b241850ed4da494c387be624aec32",
+    "filehash": "3b45cba1d3a872b8b9026ea6974c9e7b",
+    "filename": "PixelExperience_Plus_herolte-12.1-20220528-2123-UNOFFICIAL.zip",
+    "id": "378752a798979f6ac63acb7eb2105a0ae56d0990550b68c426fe80e150936df6",
     "maintainers": [
         {
             "github_username": "expressluke",
@@ -13,8 +13,8 @@
         }
     ],
     "news_url": "https://t.me/PixelExperience",
-    "size": "1458130817",
-    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_herolte-12.1-20220410-1153-UNOFFICIAL.zip/PixelExperience_Plus_herolte-12.1-20220410-1153-UNOFFICIAL.zip",
-    "version": "twelve_plus",
+    "size": "1457836840",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_herolte-12.1-20220528-2123-UNOFFICIAL.zip/PixelExperience_Plus_herolte-12.1-20220528-2123-UNOFFICIAL.zip",
+    "version": "twelve",
     "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
 }
