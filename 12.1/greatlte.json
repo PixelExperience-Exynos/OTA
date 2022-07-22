@@ -1,10 +1,10 @@
 {
-    "datetime": "1648888215",
+    "datetime": "1658519338",
     "donate_url": "https://paypal.me/lukew594",
     "error": false,
-    "filehash": "47f798cdcd8928caa43f0ef67f3a1c32",
-    "filename": "PixelExperience_greatlte-12.1-20220402-0831-UNOFFICIAL.zip",
-    "id": "2d5f1c7f52a53f80b2a2b6122945f6e522de2f82536faed533f27446b207e3c2",
+    "filehash": "3dffe11ccbbf1e99888d3de1d28e28c3",
+    "filename": "PixelExperience_greatlte-12.1-20220722-2045-UNOFFICIAL.zip",
+    "id": "f10a2f2f69ddf080ab26d165792fb4103d78aad5525dfcaddf1e3b776e73dd57",
     "maintainers": [
         {
             "github_username": "expressluke",
@@ -13,8 +13,8 @@
         }
     ],
     "news_url": "https://t.me/PixelExperience",
-    "size": "1493402289",
-    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_greatlte-12.1-20220402-0831-UNOFFICIAL.zip/PixelExperience_greatlte-12.1-20220402-0831-UNOFFICIAL.zip",
+    "size": "1492887198",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_greatlte-12.1-20220722-2045-UNOFFICIAL.zip/PixelExperience_greatlte-12.1-20220722-2045-UNOFFICIAL.zip",
     "version": "twelve",
     "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
 }
