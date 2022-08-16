@@ -1,10 +1,10 @@
 {
-    "datetime": "1655642720",
+    "datetime": "1660655535",
     "donate_url": "https://paypal.me/lukew594",
     "error": false,
-    "filehash": "a85c257b1b183ad254bf46d32d4d36e0",
-    "filename": "PixelExperience_Plus_dream2lte-12.1-20220619-1246-UNOFFICIAL.zip",
-    "id": "fd0796c4c78cc59661f929c2306f4452eac013d3c49745b666dca6c6d2fe080b",
+    "filehash": "637860486961f9e6c432b3a57efd8b77",
+    "filename": "PixelExperience_Plus_dream2lte-12.1-20220816-1313-UNOFFICIAL.zip",
+    "id": "a3a9aed8b17d086c57dfb44e19b14e449e9646e05b5b0556c13bfd670bec42ad",
     "maintainers": [
         {
             "github_username": "expressluke",
@@ -13,8 +13,8 @@
         }
     ],
     "news_url": "https://t.me/PixelExperience",
-    "size": "1499277425",
-    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_dream2lte-12.1-20220619-1246-UNOFFICIAL.zip/PixelExperience_Plus_dream2lte-12.1-20220619-1246-UNOFFICIAL.zip",
+    "size": "1500723155",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_dream2lte-12.1-20220816-1313-UNOFFICIAL.zip/PixelExperience_Plus_dream2lte-12.1-20220816-1313-UNOFFICIAL.zip",
     "version": "twelve_plus",
     "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
 }
