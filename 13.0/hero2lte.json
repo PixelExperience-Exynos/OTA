@@ -1,0 +1,20 @@
+{
+    "datetime": "1663695857",
+    "donate_url": "https://paypal.me/lukew594",
+    "error": false,
+    "filehash": "3ce70ecaf20566a21478c84bc9c8ee02",
+    "filename": "PixelExperience_hero2lte-13.0-BETA-20220920-1746-UNOFFICIAL.zip",
+    "id": "6c3cccfc8dd2478cd2fcdbc2d50d3309469d2bb5c3166d7e0973b7cf385c282c",
+    "maintainers": [
+        {
+            "github_username": "expressluke",
+            "main_maintainer": false,
+            "name": "ExpressLuke"
+        }
+    ],
+    "news_url": "https://t.me/PixelExperience",
+    "size": "1405494057",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_hero2lte-13.0-BETA-20220920-1746-UNOFFICIAL.zip/PixelExperience_hero2lte-13.0-BETA-20220920-1746-UNOFFICIAL.zip",
+    "version": "thirteen",
+    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
+}
