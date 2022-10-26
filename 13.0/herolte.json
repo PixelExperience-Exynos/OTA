@@ -1,10 +1,10 @@
 {
-    "datetime": "1663698145",
+    "datetime": "1666762262",
     "donate_url": "https://paypal.me/lukew594",
     "error": false,
-    "filehash": "4d4a79f5a401b710a3b82a5a694d56ab",
-    "filename": "PixelExperience_herolte-13.0-BETA-20220920-1825-UNOFFICIAL.zip",
-    "id": "5dba4a7e1f76853676c9c4397a858aec1fb2c9c1200b7c37928cecc0f4f87934",
+    "filehash": "3473df123a5e05b238d548bbba240640",
+    "filename": "PixelExperience_herolte-13.0-BETA-20221026-0533-UNOFFICIAL.zip",
+    "id": "918d2deff65f75d94e573df79badcbeb2b8c99c9be15cb0cc5b3957ff7134803",
     "maintainers": [
         {
             "github_username": "expressluke",
@@ -13,8 +13,8 @@
         }
     ],
     "news_url": "https://t.me/PixelExperience",
-    "size": "1405620116",
-    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_herolte-13.0-BETA-20220920-1825-UNOFFICIAL.zip/PixelExperience_herolte-13.0-BETA-20220920-1825-UNOFFICIAL.zip",
+    "size": "1419827772",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_herolte-13.0-BETA-20221026-0533-UNOFFICIAL.zip/PixelExperience_herolte-13.0-BETA-20221026-0533-UNOFFICIAL.zip",
     "version": "thirteen",
     "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
 }
