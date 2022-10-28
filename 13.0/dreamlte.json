@@ -1,10 +1,10 @@
 {
-    "datetime": "1663829414",
+    "datetime": "1666879970",
     "donate_url": "https://paypal.me/lukew594",
     "error": false,
-    "filehash": "8d14f766d48b1f8abec04580a0410ff1",
-    "filename": "PixelExperience_dreamlte-13.0-BETA-20220922-0652-UNOFFICIAL.zip",
-    "id": "b8b1172aba0a23df015c313f01c3b211c431569a816179a4382b6ee7984a031a",
+    "filehash": "43380eb4146d103338bfc72125cf35e9",
+    "filename": "PixelExperience_dreamlte-13.0-BETA-20221027-1708-UNOFFICIAL.zip",
+    "id": "01eca7915af6328faab391a625909bcfc41446e5a53ae39f224905013ea98980",
     "maintainers": [
         {
             "github_username": "expressluke",
@@ -13,8 +13,8 @@
         }
     ],
     "news_url": "https://t.me/PixelExperience",
-    "size": "1452148567",
-    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_dreamlte-13.0-BETA-20220922-0652-UNOFFICIAL.zip/PixelExperience_dreamlte-13.0-BETA-20220922-0652-UNOFFICIAL.zip",
+    "size": "1466985717",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_dreamlte-13.0-BETA-20221027-1708-UNOFFICIAL.zip/PixelExperience_dreamlte-13.0-BETA-20221027-1708-UNOFFICIAL.zip",
     "version": "thirteen",
     "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
 }
