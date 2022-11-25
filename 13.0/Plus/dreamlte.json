@@ -1,0 +1,20 @@
+{
+    "datetime": "1669316185",
+    "donate_url": "https://paypal.me/lukew594",
+    "error": false,
+    "filehash": "7587500e5198772130e1129d433365ca",
+    "filename": "PixelExperience_Plus_dreamlte-13.0-20221124-1856-UNOFFICIAL.zip",
+    "id": "c4157e3f27de2dff9d7a6a8164dbb9a3752a5fe088e11dda68552acf2b84653c",
+    "maintainers": [
+        {
+            "github_username": "expressluke",
+            "main_maintainer": false,
+            "name": "ExpressLuke"
+        }
+    ],
+    "news_url": "https://t.me/PixelExperience",
+    "size": "1522888756",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_dreamlte-13.0-20221124-1856-UNOFFICIAL.zip/PixelExperience_Plus_dreamlte-13.0-20221124-1856-UNOFFICIAL.zip",
+    "version": "thirteen_plus",
+    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
+}
