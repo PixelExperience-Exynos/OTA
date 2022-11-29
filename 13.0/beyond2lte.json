@@ -1,0 +1,20 @@
+{
+    "datetime": "1669742646",
+    "donate_url": "https://paypal.me/lukew594",
+    "error": false,
+    "filehash": "49cb1672f6f38d325db3a57912d271aa",
+    "filename": "PixelExperience_beyond2lte-13.0-20221129-2010-UNOFFICIAL.zip",
+    "id": "7f50b6f8765c32ef5767fb00be096f28e20b871ffa64b604e870d40014f5c831",
+    "maintainers": [
+        {
+            "github_username": "expressluke",
+            "main_maintainer": false,
+            "name": "ExpressLuke"
+        }
+    ],
+    "news_url": "https://t.me/PixelExperience",
+    "size": "1627305236",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_beyond2lte-13.0-20221129-2010-UNOFFICIAL.zip/PixelExperience_beyond2lte-13.0-20221129-2010-UNOFFICIAL.zip",
+    "version": "thirteen",
+    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
+}
