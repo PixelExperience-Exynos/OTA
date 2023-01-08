@@ -1,20 +1,20 @@
 {
-    "datetime": "1666911170",
-    "donate_url": "https://paypal.me/lukew594",
     "error": false,
-    "filehash": "c0faf57e8d8ca592538fcbee589990e2",
-    "filename": "PixelExperience_greatlte-13.0-BETA-20221027-2255-UNOFFICIAL.zip",
-    "id": "994d07ac873dc5d2fb8e76fd6b833c34c2290fa6b5442ebce9cc039452497415",
     "maintainers": [
         {
-            "github_username": "expressluke",
             "main_maintainer": false,
+            "github_username": "expressluke",
             "name": "ExpressLuke"
         }
     ],
+    "donate_url": "https://paypal.me/lukew594",
+    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
     "news_url": "https://t.me/PixelExperience",
-    "size": "1468495034",
-    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_greatlte-13.0-BETA-20221027-2255-UNOFFICIAL.zip/PixelExperience_greatlte-13.0-BETA-20221027-2255-UNOFFICIAL.zip",
+    "datetime": "1673164049",
+    "filename": "PixelExperience_greatlte-13.0-20230108-0748-UNOFFICIAL.zip",
+    "id": "3012fe9c67911dd6f7f3b09b289d5f8de3e96adb79a7e71ab62982eb2fe4cc50",
+    "size": "1559622666",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_greatlte-13.0-20230108-0748-UNOFFICIAL.zip/PixelExperience_greatlte-13.0-20230108-0748-UNOFFICIAL.zip",
     "version": "thirteen",
-    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases"
+    "filehash": "7ea730fdefb6001ba09042b2d98aa020"
 }
