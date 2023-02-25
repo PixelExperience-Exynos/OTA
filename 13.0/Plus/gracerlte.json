@@ -1,0 +1,20 @@
+{
+    "error": false,
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "expressluke",
+            "name": "ExpressLuke"
+        }
+    ],
+    "donate_url": "https://paypal.me/lukew594",
+    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
+    "news_url": "https://t.me/PixelExperience",
+    "datetime": "1677317539",
+    "filename": "PixelExperience_Plus_gracerlte-13.0-20230225-0932-UNOFFICIAL.zip",
+    "id": "e0a765764f01a5233b4a79ec87e45fd7ad922e941c4fba434a6b8836199ab377",
+    "size": "1358667137",
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_gracerlte-13.0-20230225-0932-UNOFFICIAL.zip/PixelExperience_Plus_gracerlte-13.0-20230225-0932-UNOFFICIAL.zip",
+    "version": "thirteen_plus",
+    "filehash": "d1a802c1e9e0143fc7f17c792d161f64"
+}
