@@ -1,20 +1,23 @@
 {
-    "error": false,
+    "datetime": 1699485868,
+    "filename": "PixelExperience_gracerlte-13.0-20231108-2324-UNOFFICIAL.zip",
+    "id": "d8b17699dd5b8c25c7d597ba6554a91d64696bcd64eb2f7ba444a940246076a6",
+    "size": 1379259691,
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_gracerlte-13.0-20231108-2324-UNOFFICIAL.zip/PixelExperience_gracerlte-13.0-20231108-2324-UNOFFICIAL.zip",
+    "version": "thirteen",
+    "filehash": "918a2df44009192bbbf9e38f0be3f098",
     "maintainers": [
         {
-            "main_maintainer": false,
+            "name": "ExpressLuke",
             "github_username": "expressluke",
-            "name": "ExpressLuke"
+            "ci_username": "expressluke",
+            "versions": [
+                "thirteen"
+            ]
         }
     ],
+    "error": false,
     "donate_url": "https://paypal.me/lukew594",
     "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
-    "news_url": "https://t.me/PixelExperience",
-    "datetime": "1693511119",
-    "filename": "PixelExperience_gracerlte-13.0-20230831-1946-UNOFFICIAL.zip",
-    "id": "fb6647490bd120824f8d374c53bd6d3681f01868eb29a66788a01701840986b7",
-    "size": "",
-    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_gracerlte-13.0-20230831-1946-UNOFFICIAL.zip/PixelExperience_gracerlte-13.0-20230831-1946-UNOFFICIAL.zip",
-    "version": "thirteen",
-    "filehash": "bd202cef5f0f57131e4fd46ac5e8baa5"
+    "news_url": "https://t.me/PixelExperience"
 }
