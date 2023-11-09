@@ -1,20 +1,24 @@
 {
-    "error": false,
+    "datetime": 1699514274,
+    "filename": "PixelExperience_Plus_hero2lte-13.0-20231109-0718-UNOFFICIAL.zip",
+    "id": "ee2ddf37f4536ff862bf7aeb70ed8c41539d0243df44a003be55818c771270b9",
+    "size": 1385224255,
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_hero2lte-13.0-20231109-0718-UNOFFICIAL.zip/PixelExperience_Plus_hero2lte-13.0-20231109-0718-UNOFFICIAL.zip",
+    "version": "thirteen_plus",
+    "filehash": "757de9bbc5b46a367b848a5f09ad9bd9",
     "maintainers": [
         {
-            "main_maintainer": false,
+            "name": "ExpressLuke",
             "github_username": "expressluke",
-            "name": "ExpressLuke"
+            "ci_username": "expressluke",
+            "versions": [
+                "thirteen",
+                "thirteen_plus"
+            ]
         }
     ],
+    "error": false,
     "donate_url": "https://paypal.me/lukew594",
     "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
-    "news_url": "https://t.me/PixelExperience",
-    "datetime": "1696101628",
-    "filename": "PixelExperience_Plus_hero2lte-13.0-20230930-1920-UNOFFICIAL.zip",
-    "id": "2a46e647306f75357c12c348d0256b0954f3a4378fe2dd01fad3ed920c5cd98d",
-    "size": "1385199208",
-    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_hero2lte-13.0-20230930-1920-UNOFFICIAL.zip/PixelExperience_Plus_hero2lte-13.0-20230930-1920-UNOFFICIAL.zip",
-    "version": "thirteen_plus",
-    "filehash": "0326e3a4cf0233705a2ad00bc818a52a"
+    "news_url": "https://t.me/PixelExperience"
 }
