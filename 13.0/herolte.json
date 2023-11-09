@@ -1,20 +1,23 @@
 {
-    "error": false,
+    "datetime": 1699485181,
+    "filename": "PixelExperience_herolte-13.0-20231108-2313-UNOFFICIAL.zip",
+    "id": "075d5a50f3dcddfc578d85d091def3437ce3e386bb5abff7aacb887532ef6d1f",
+    "size": 1378545646,
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_herolte-13.0-20231108-2313-UNOFFICIAL.zip/PixelExperience_herolte-13.0-20231108-2313-UNOFFICIAL.zip",
+    "version": "thirteen",
+    "filehash": "248dc5e2f2b6483a93262d0b376325b1",
     "maintainers": [
         {
-            "main_maintainer": false,
+            "name": "ExpressLuke",
             "github_username": "expressluke",
-            "name": "ExpressLuke"
+            "ci_username": "expressluke",
+            "versions": [
+                "thirteen"
+            ]
         }
     ],
+    "error": false,
     "donate_url": "https://paypal.me/lukew594",
     "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
-    "news_url": "https://t.me/PixelExperience",
-    "datetime": "1693510514",
-    "filename": "PixelExperience_herolte-13.0-20230831-1937-UNOFFICIAL.zip",
-    "id": "0792ef694b4d3bbc58e96306f7bf78f365b8a4dcf8ccbc77a14553f66cc20710",
-    "size": "",
-    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_herolte-13.0-20230831-1937-UNOFFICIAL.zip/PixelExperience_herolte-13.0-20230831-1937-UNOFFICIAL.zip",
-    "version": "thirteen",
-    "filehash": "211e0a4d89b526fda687a71861ee8734"
+    "news_url": "https://t.me/PixelExperience"
 }
