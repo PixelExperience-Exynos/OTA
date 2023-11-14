@@ -1,20 +1,24 @@
 {
-    "error": false,
+    "datetime": 1699914802,
+    "filename": "PixelExperience_Plus_beyondx-13.0-20231113-2234-UNOFFICIAL.zip",
+    "id": "6ecd23d7857890b9b82c7f3c92e1ca46c8ee6f29f507043eb2dd91fcf7fc5e52",
+    "size": 1555375716,
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_beyondx-13.0-20231113-2234-UNOFFICIAL.zip/PixelExperience_Plus_beyondx-13.0-20231113-2234-UNOFFICIAL.zip",
+    "version": "thirteen_plus",
+    "filehash": "9ca55525d88e383495ba51300f0435ac",
     "maintainers": [
         {
-            "main_maintainer": false,
+            "name": "ExpressLuke",
             "github_username": "expressluke",
-            "name": "ExpressLuke"
+            "ci_username": "expressluke",
+            "versions": [
+                "thirteen",
+                "thirteen_plus"
+            ]
         }
     ],
+    "error": false,
     "donate_url": "https://paypal.me/lukew594",
-    "website_url": "https://expresserino.github.io/pe-downloads.html",
-    "news_url": "https://t.me/PixelExperience",
-    "datetime": "1697496023",
-    "filename": "PixelExperience_Plus_beyondx-13.0-20231016-2241-UNOFFICIAL.zip",
-    "id": "c718c0c53da7224e9ed77588cc903b22097d23fe30de80c4f12df5c339bed7e4",
-    "size": "1558603417",
-    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_Plus_beyondx-13.0-20231016-2241-UNOFFICIAL.zip/PixelExperience_Plus_beyondx-13.0-20231016-2241-UNOFFICIAL.zip",
-    "version": "thirteen_plus",
-    "filehash": "1b7f2c5afd6648bf9d60992c86fbc2dc"
+    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
+    "news_url": "https://t.me/PixelExperience"
 }
