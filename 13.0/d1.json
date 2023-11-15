@@ -1,20 +1,23 @@
 {
-    "error": false,
+    "datetime": 1699964425,
+    "filename": "PixelExperience_d1-13.0-20231114-1223-UNOFFICIAL.zip",
+    "id": "6e8acf5f4971108648347c7dc83aaef07d768ed98097a8d81c1a6ce084217f71",
+    "size": 1557318115,
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_d1-13.0-20231114-1223-UNOFFICIAL.zip/PixelExperience_d1-13.0-20231114-1223-UNOFFICIAL.zip",
+    "version": "thirteen",
+    "filehash": "21456f465c2c9659ecee0e38f347297a",
     "maintainers": [
         {
-            "main_maintainer": false,
+            "name": "ExpressLuke",
             "github_username": "expressluke",
-            "name": "ExpressLuke"
+            "ci_username": "expressluke",
+            "versions": [
+                "thirteen"
+            ]
         }
     ],
+    "error": false,
     "donate_url": "https://paypal.me/lukew594",
-    "website_url": "https://expresserino.github.io/pe-downloads.html",
-    "news_url": "https://t.me/PixelExperience",
-    "datetime": "1697586345",
-    "filename": "PixelExperience_d1-13.0-20231017-2346-UNOFFICIAL.zip",
-    "id": "3c9de4f2a48462a18875c04e674633a28010df6a57b3b0ba2e5a956ad444a900",
-    "size": "1560566197",
-    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_d1-13.0-20231017-2346-UNOFFICIAL.zip/PixelExperience_d1-13.0-20231017-2346-UNOFFICIAL.zip",
-    "version": "thirteen_plus",
-    "filehash": "8a33b1bc5cf0fe909b50d65454377b50"
+    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
+    "news_url": "https://t.me/PixelExperience"
 }
