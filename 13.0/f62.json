@@ -1,0 +1,23 @@
+{
+    "datetime": 1699967118,
+    "filename": "PixelExperience_f62-13.0-20231114-1308-UNOFFICIAL.zip",
+    "id": "092bd12b806b71e8dad00c36ae46531b384c10221a952f81e702db86c399c455",
+    "size": 1544840330,
+    "url": "https://github.com/PixelExperience-Exynos/OTA/releases/download/PixelExperience_f62-13.0-20231114-1308-UNOFFICIAL.zip/PixelExperience_f62-13.0-20231114-1308-UNOFFICIAL.zip",
+    "version": "thirteen",
+    "filehash": "04ea66e96c95ba7a9985406482596888",
+    "maintainers": [
+        {
+            "name": "ExpressLuke",
+            "github_username": "expressluke",
+            "ci_username": "expressluke",
+            "versions": [
+                "thirteen"
+            ]
+        }
+    ],
+    "error": false,
+    "donate_url": "https://paypal.me/lukew594",
+    "website_url": "https://github.com/PixelExperience-Exynos/OTA/releases",
+    "news_url": "https://t.me/PixelExperience"
+}
